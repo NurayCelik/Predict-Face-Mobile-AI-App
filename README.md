@@ -20,5 +20,6 @@ Mobile artificial intelligence application that predicts male or female from a f
 
 
 
-![Ekran Alıntısı](https://user-images.githubusercontent.com/29830733/166165989-bb480a21-db02-43c3-96bf-4f9f1b62d9b0.JPG)
-![Figure_1](https://user-images.githubusercontent.com/29830733/166165991-a61b445c-c52f-45c4-af7f-902ddf4b25cb.png)
+
+![Ekran Alıntısı](https://user-images.githubusercontent.com/29830733/166166015-82c87c5c-86cd-48ad-bc0a-3b2ff88c52ef.JPG)
+![Figure_1](https://user-images.githubusercontent.com/29830733/166166018-baa5086f-5d0f-4066-938c-1ec0ffd0dc9e.png)
