@@ -32,6 +32,8 @@ One way to create flexible models is the Keras functional API tf.keras.Sequentia
 
 Matplotlib for Visualization with Python
 
+Accuracy classification score for sklearn.metrics
+
 
 ![Figure_1](https://user-images.githubusercontent.com/29830733/166166120-4361753f-8de2-49b2-ab69-0fcb67e00a77.png)
 
