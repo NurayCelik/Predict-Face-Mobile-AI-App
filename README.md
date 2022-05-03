@@ -23,6 +23,7 @@ Mobile artificial intelligence application that predicts male or female from a f
 
 ## Train the TensorFlow Lite model
 To train the model, 3 classes were created from photographs of men, women and no human faces. A total of 4363 images were used in the validation and train folders.
+
 MobileNetV2 is a convolutional neural network architecture for mobile devices.
 
 
