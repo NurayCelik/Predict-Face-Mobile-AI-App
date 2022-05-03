@@ -26,7 +26,7 @@ A Flutter plugin for accessing TensorFlow Lite API : tflite package
 
 
 ## Train the TensorFlow Lite model
-To train the model, 3 classes were created from photographs of men, women and no human faces. A total of 4363 images were used in the validation and train folders.
+To train the model, 3 classes were created from photographs of man, woman and no human faces. A total of 4363 images were used in the validation and train folders.
 
 TensorFlow Lite model toolset for machine learning
 
