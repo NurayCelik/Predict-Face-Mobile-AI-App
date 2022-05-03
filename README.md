@@ -1,4 +1,5 @@
 # Predict Face Mobile AI App
+
 Mobile artificial intelligence application that predicts male or female from a face photo
 
 A Flutter plugin for accessing TensorFlow Lite API : tflite package
