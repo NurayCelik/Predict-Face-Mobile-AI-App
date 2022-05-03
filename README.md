@@ -22,7 +22,7 @@ Mobile artificial intelligence application that predicts male or female from a f
 
 
 ## Train the TensorFlow Lite model
-In order to train the model, 3 classes consisting of images without male, female and human in the train and validation folders were created. A total of 4363 images were used.
+To train the model, 3 classes were created from photographs of men, women and no human faces. A total of 4363 images were used in the validation and train folders.
 
 
 ![Figure_1](https://user-images.githubusercontent.com/29830733/166166120-4361753f-8de2-49b2-ab69-0fcb67e00a77.png)
