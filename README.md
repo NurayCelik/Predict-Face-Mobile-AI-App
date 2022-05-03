@@ -10,8 +10,6 @@ A Flutter plugin for accessing TensorFlow Lite API : tflite package
 
 
 ![logo1](https://user-images.githubusercontent.com/29830733/166163272-fb04e35a-239f-4612-904f-a48f3a95be6a.png)
-
-
 ![Screenshot_1636879893](https://user-images.githubusercontent.com/29830733/166163619-a81decbc-6f70-472d-ad20-5c21570eb5fc.png)
 
 
