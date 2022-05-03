@@ -28,11 +28,11 @@ A Flutter plugin for accessing TensorFlow Lite API : tflite package
 ## Train the TensorFlow Lite model
 To train the model, 3 classes were created from photographs of men, women and no human faces. A total of 4363 images were used in the validation and train folders.
 
-TensorFlow Lite model toolset for machine learning.
+TensorFlow Lite model toolset for machine learning
 
-MobileNetV2 is a convolutional neural network architecture for mobile devices.
+MobileNetV2 is a convolutional neural network architecture for mobile devices
 
-One way to create flexible models is the Keras functional API tf.keras.Sequential.
+One way to create flexible models is the Keras functional API tf.keras.Sequential
 
 Matplotlib for Visualization with Python
 
