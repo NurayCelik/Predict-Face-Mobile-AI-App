@@ -26,6 +26,8 @@ To train the model, 3 classes were created from photographs of men, women and no
 
 MobileNetV2 is a convolutional neural network architecture for mobile devices.
 
+One way to create flexible models is the Keras functional API tf.keras.Sequential.
+
 
 ![Figure_1](https://user-images.githubusercontent.com/29830733/166166120-4361753f-8de2-49b2-ab69-0fcb67e00a77.png)
 
